@@ -22,5 +22,4 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone <repository-url>
-cd reading-diary
+git clone <https://github.com/nurgaleeva4/pyQt>
